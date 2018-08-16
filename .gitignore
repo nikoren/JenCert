@@ -2,3 +2,7 @@ Vagrantfile
 .vagrant
 *.key
 *.pub
+bin/*
+dist/*
+reorts/*
+docs/*
